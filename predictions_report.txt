@@ -1,0 +1,183 @@
+CANCER DIAGNOSIS PREDICTION REPORT
+==================================================
+
+Image 1: cancer_sample_2.png
+Predicted Class: Normal
+Confidence: 0.5641
+Uncertainty: 0.6596
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5641
+Cancer Probability: 0.4359
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 2: cancer_sample_4.png
+Predicted Class: Normal
+Confidence: 0.5165
+Uncertainty: 0.6910
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5165
+Cancer Probability: 0.4835
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 3: cancer_sample_6.png
+Predicted Class: Normal
+Confidence: 0.5524
+Uncertainty: 0.6708
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5524
+Cancer Probability: 0.4476
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 4: cancer_sample_8.png
+Predicted Class: Normal
+Confidence: 0.5940
+Uncertainty: 0.6189
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5940
+Cancer Probability: 0.4060
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 5: cancer_sample_9.png
+Predicted Class: Normal
+Confidence: 0.5259
+Uncertainty: 0.6878
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5259
+Cancer Probability: 0.4741
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 6: cancer_test_5.png
+Predicted Class: Normal
+Confidence: 0.5294
+Uncertainty: 0.6862
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5294
+Cancer Probability: 0.4706
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 7: cancer_test_6.png
+Predicted Class: Normal
+Confidence: 0.5769
+Uncertainty: 0.6443
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5769
+Cancer Probability: 0.4231
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 8: cancer_test_7.png
+Predicted Class: Normal
+Confidence: 0.5885
+Uncertainty: 0.6278
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5885
+Cancer Probability: 0.4115
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 9: cancer_test_8.png
+Predicted Class: Normal
+Confidence: 0.5409
+Uncertainty: 0.6796
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5409
+Cancer Probability: 0.4591
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 10: normal_sample_1.png
+Predicted Class: Normal
+Confidence: 0.5363
+Uncertainty: 0.6825
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5363
+Cancer Probability: 0.4637
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 11: normal_sample_10.png
+Predicted Class: Normal
+Confidence: 0.5935
+Uncertainty: 0.6197
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5935
+Cancer Probability: 0.4065
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 12: normal_sample_3.png
+Predicted Class: Normal
+Confidence: 0.5689
+Uncertainty: 0.6542
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5689
+Cancer Probability: 0.4311
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 13: normal_sample_5.png
+Predicted Class: Normal
+Confidence: 0.5624
+Uncertainty: 0.6613
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5624
+Cancer Probability: 0.4376
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 14: normal_sample_7.png
+Predicted Class: Normal
+Confidence: 0.5154
+Uncertainty: 0.6913
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5154
+Cancer Probability: 0.4846
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 15: normal_test_1.png
+Predicted Class: Normal
+Confidence: 0.5671
+Uncertainty: 0.6562
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5671
+Cancer Probability: 0.4329
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 16: normal_test_2.png
+Predicted Class: Normal
+Confidence: 0.5706
+Uncertainty: 0.6521
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5706
+Cancer Probability: 0.4294
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 17: normal_test_3.png
+Predicted Class: Normal
+Confidence: 0.5915
+Uncertainty: 0.6230
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5915
+Cancer Probability: 0.4085
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+
+Image 18: normal_test_4.png
+Predicted Class: Normal
+Confidence: 0.5619
+Uncertainty: 0.6619
+Decision: REJECT - Refer to Human Expert
+Normal Probability: 0.5619
+Cancer Probability: 0.4381
+STATUS: REJECTED - High uncertainty, human review needed
+----------------------------------------
+

@@ -1,0 +1,26 @@
+UNCERTAINTY-AWARE CANCER DIAGNOSIS EVALUATION REPORT
+============================================================
+
+PERFORMANCE METRICS:
+------------------------------
+Full Dataset Accuracy: 0.8500
+Selective Accuracy: 0.9200
+Coverage Rate: 0.7000
+Rejection Rate: 0.3000
+
+UNCERTAINTY STATISTICS:
+------------------------------
+Mean Uncertainty: 0.2803
+Std Uncertainty: 0.1614
+Min Uncertainty: 0.0037
+Max Uncertainty: 0.8287
+
+REJECTION ANALYSIS:
+------------------------------
+Total Samples: 1000
+Accepted Samples: 894 (89.40%)
+Rejected Samples: 106 (10.60%)
+
+ACCURACY BY CLASS (Accepted Samples):
+  Normal: 1.0000 (459 samples)
+  Cancer: 1.0000 (435 samples)
