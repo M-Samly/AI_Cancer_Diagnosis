@@ -70,49 +70,61 @@ pip install -r requirements.txt
 
 ### Step 2: Download Dataset
 Download the 6 Camelyon17 HDF5 files
-
+```bash
 Create folder: data/raw/camelyon17/
-
+```
 Place all downloaded .h5 files in this folder
 
 ### Step 3: Verify Setup
+```bash
 python check_installation.py
 python verify_camelyon.py
-
+```
 ### Step 4: Run the System
+```bash
 python run_project.py
-
+```
 ## Complete Step-by-Step Execution
 ### Option A: For Development/Research
 1. Train the Model
 
 #### Quick training
+```bash
 python main.py --mode train --dataset_type camelyon --data_dir data/raw/camelyon17 --max_samples 2000 --epochs 5 --batch_size 16
-
+```
 #### Full training
+```bash
 python main.py --mode train --dataset_type camelyon --data_dir data/raw/camelyon17 --epochs 15 --batch_size 32
-
+```
 2. Prepare Test Images
+```bash
 python extract_camelyon_samples.py
-
+```
 3. Make Predictions
 # Command line prediction
+```bash
 python src/predict.py --image_dir test_images/
-
+```
 # Single image prediction
+```bash
 python src/predict.py --image_path test_images/normal_sample_1.png
-
+```
 4. Evaluate Model
+```bash
 python main.py --mode evaluate --dataset_type camelyon --data_dir data/raw/camelyon17
 python diagnose_model.py
-
+```
 ### Option B: For End Users
 1. Web Interface (Easiest)
+```bash
 python app.py
+```
 Open http://localhost:5000 and upload images through the browser.
 
 2. Automated Setup
+```bash
 python run_project.py
+```
 Follow the menu options for complete automation.
 
 ## Web Interface Usage
