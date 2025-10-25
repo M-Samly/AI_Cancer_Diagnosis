@@ -1,5 +1,5 @@
 # Data files (too large for GitHub)
-data/
+data/raw
 
 # Model weights (can be large)
 saved_models/
