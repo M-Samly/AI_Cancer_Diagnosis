@@ -44,36 +44,7 @@ camelyonpatch_level_2_split_test_y.h5 (21 KB)
 
 
 ## 📁 Project Structure
-cancer-diagnosis-ai/
-├── 📁 data/                   # Dataset directories
-│   ├── raw/camelyon17/        # Place downloaded HDF5 files here
-│   ├── processed/             # Processed datasets (auto-generated)
-│   └── sample/                # Sample data for testing (auto-generated)
-├── 📁 src/                    # Source code
-│   ├── data_loader.py         # Data loading and preprocessing
-│   ├── models.py              # Model architectures (ResNet18 + uncertainty)
-│   ├── train.py               # Training functions and loops
-│   ├── uncertainty.py         # Uncertainty estimation and rejection
-│   ├── evaluate.py            # Evaluation metrics and plotting
-│   ├── utils.py               # Utility functions and helpers
-│   ├── camelyon_loader.py     # Camelyon-specific HDF5 data loader
-│   ├── predict.py             # Prediction interface for user images
-│   └── prepare_dataset.py     # Dataset preparation scripts
-├── 📁 templates/              # Web interface templates
-│   └── index.html             # Main web page for image upload
-├── 📁 configs/                # Configuration files
-│   └── config.yaml            # Training and model configuration
-├── 📁 saved_models/           # Trained model weights (auto-generated)
-├── 📁 results/                # Training results and plots (auto-generated)
-├── 📁 test_images/            # Test images for prediction (auto-generated)
-├── 🐍 main.py                 # Main command-line interface
-├── 🐍 app.py                  # Flask web application
-├── 🐍 run_project.py          # Integrated project launcher
-├── 📄 requirements.txt        # Python dependencies
-├── 📄 verify_camelyon.py      # Dataset verification script
-├── 📄 extract_samples.py      # Extract test images from dataset
-└── 📄 README.md               # This file
-
+![File Structure](image.png)
 
 ### Key File Descriptions:
 
