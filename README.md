@@ -7,6 +7,8 @@ A deep learning system for cancer diagnosis with built-in uncertainty estimation
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## Please Use Python 3.11.9 or less
+
 ## 📋 Project Overview
 
 This project addresses a critical challenge in medical AI: **knowing when the model is uncertain**. Instead of just providing predictions, our system:
