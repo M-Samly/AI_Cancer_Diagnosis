@@ -31,6 +31,7 @@ This project addresses a critical challenge in medical AI: **knowing when the mo
 This project uses the **Camelyon17** dataset for metastatic breast cancer detection in lymph node histopathology images.
 
 **Download Links:**
+- GitHub Link: https://github.com/basveeling/pcam
 - Official Website: [Camelyon17 Grand Challenge](https://camelyon17.grand-challenge.org/Data/)
 - Direct Download: [Google Drive Mirror](https://drive.google.com/drive/folders/1ec0c0BOgMF8L-lJMqNYlHQ0Gcma-4hx7)
 
